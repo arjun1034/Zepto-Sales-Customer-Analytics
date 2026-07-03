@@ -10,7 +10,7 @@ The dashboard helps identify revenue trends, customer purchasing patterns, payme
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard.jpeg)
+![Dashboard](Dashboard'.jpeg)
 
 ---
 
